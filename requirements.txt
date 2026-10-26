@@ -4,3 +4,4 @@ numpy
 openai
 anthropic
 pypdf
+google-genai
